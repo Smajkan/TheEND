@@ -1,4 +1,6 @@
 This is simple script bash script, which will use shred to wipe out HDD.
+NOTE: This script won't run immidietly!!!
+You will be prompted if you're sure about it.
 
 Info on shred:
 
